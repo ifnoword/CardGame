@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PlayerList</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Anon</string>
+			<key>HighScore</key>
+			<dict>
+				<key>Score</key>
+				<integer>0</integer>
+				<key>Time</key>
+				<date>2014-02-28T02:19:01Z</date>
+			</dict>
+			<key>RecentScore</key>
+			<dict>
+				<key>Score</key>
+				<integer>0</integer>
+				<key>Time</key>
+				<date>2014-02-28T02:23:34Z</date>
+			</dict>
+		</dict>
+	</array>
+	<key>Game</key>
+	<dict>
+		<key>PlayerName</key>
+		<string></string>
+		<key>Type</key>
+		<integer>0</integer>
+		<key>Deck</key>
+		<array/>
+		<key>CardsInPlay</key>
+		<array/>
+	</dict>
+	<key>TopScores</key>
+	<array/>
+</dict>
+</plist>
